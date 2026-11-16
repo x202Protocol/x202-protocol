@@ -1,0 +1,16 @@
+{
+  "network": "mainnet",
+  "deployBlock": 116098658,
+  "chainId": 4663,
+  "rpc": "https://rpc.mainnet.chain.robinhood.com",
+  "explorer": "https://robinhoodchain.blockscout.com",
+  "deployedAt": "2026-11-16T22:13:51.968Z",
+  "X202Oracle": "0xd291994E64B7f471b5345637701124D2fda2a7f7",
+  "X202AgentBoard": "0x87dE5FF42D3dAd0F65f2ca100bb4b90A0Cc50b93",
+  "X202AgentVault": "0xEdB56f399091396d7AEb3AC9713C3F6dA3916cec",
+  "vaultBlock": 116098703,
+  "vaultOperator": "0xdE82430FB46d63BcfD0E61cD47d409622ebA3360",
+  "writer": "0xdE82430FB46d63BcfD0E61cD47d409622ebA3360",
+  "owner": "0xcE9580b767f68db0B2e046ea4Ed439132344198B",
+  "deployer": "0x5eE6990D284F3EC76E630a5F5a7237a5Af81BB6C"
+}

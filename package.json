@@ -1,0 +1,23 @@
+{
+  "name": "x202-protocol",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "x202: quarterly earnings from SEC 8-K Item 2.02 filings, written onchain on Robinhood Chain, and the vault that pays AI agent alerts.",
+  "license": "MIT",
+  "scripts": {
+    "build": "hardhat compile",
+    "test": "hardhat test",
+    "verify:deployment": "node scripts/verify-deployment.js"
+  },
+  "dependencies": {
+    "ethers": "6.13.4"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "2.0.8",
+    "@nomicfoundation/hardhat-ethers": "3.0.8",
+    "@openzeppelin/contracts": "5.1.0",
+    "chai": "4.5.0",
+    "hardhat": "2.22.17"
+  }
+}
